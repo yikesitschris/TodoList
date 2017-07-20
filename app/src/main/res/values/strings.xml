@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="all">All Todos</string>
+    <string name="home">Home</string>
+    <string name="work">Work</string>
+    <string name="school">School</string>
+    <string name="play">Play</string>
+
+    <string-array name="spinner_array">
+        <item>All Todos</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+        <item>Play</item>
+    </string-array>
+
+</resources>
